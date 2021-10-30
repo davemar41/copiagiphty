@@ -1,6 +1,6 @@
 body{
     background-color:rgb(43, 42, 42);
-    display: flexbox;
+    display:flexbox;
    
 }
 header{
@@ -98,6 +98,13 @@ h1{
 }
 a{
     color: aliceblue;
+}
+#cuadricula{
+    position: relative;
+    left: 290px;
+    top: 20px;
+    margin-right: 300px;
+    justify-content: center;
 }
 
 
