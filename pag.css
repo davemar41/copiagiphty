@@ -1,0 +1,104 @@
+body{
+    background-color:rgb(43, 42, 42);
+    display: flexbox;
+   
+}
+header{
+    
+    color: antiquewhite;
+    margin: 20px;
+}
+
+.container1{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 15%;
+    
+}
+p{
+    margin: 10px;
+    margin-top: 25px;
+}
+button{
+    margin-right: 8px;
+    margin-left: 8px;
+    width: 150px;
+
+}
+input{
+    margin-right: 8px;
+    margin-left: 8px;
+
+}
+h1{
+    margin: 10px;
+}
+.boton1 {
+
+    color: white;
+    background-color: black;
+    
+}
+.boton1:hover{
+    cursor:pointer;
+    background-color: rgb(73, 71, 71);
+    box-shadow: 2px 2px 2px white;
+
+}
+.boton2{
+    background-color: rgb(26, 58, 240);
+    color: antiquewhite;
+
+}
+.centrado{
+    
+    justify-content: center;
+    position: relative ;
+    top:20px;
+    left: 190px;
+    width: 900px;
+}
+#buscador{
+    width: 790px;
+    height: 30px;
+    margin-left: 7%;
+    background-color: rgb(206, 179, 168);
+}
+#formulario{
+    display: flex;
+}
+#busca{
+    background-color: rgb(219, 7, 7);
+}   
+#gif1{
+    position: relative;
+    right: 150px;
+}
+#otrobuscador{
+    width: 100px;
+}
+#menu{
+    margin-left: var(--width);
+   height: 100%;
+    position: fixed;
+    left: 0%;
+    top:30%;
+    
+}
+#otrobusca{
+    position: relative;
+    left: 1px;
+    top:4px;
+
+}
+.item{
+    color: aliceblue;
+    margin-top: 4px;
+    padding: 4px;
+}
+a{
+    color: aliceblue;
+}
+
+
+
