@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(43, 42, 42);
+}
+#contenedor1{
+
+    color: antiquewhite;
+    position: relative;
+    left: 230px;
+    
+}
+#cabecera1{
+    display: flex;
+    width: 800px;
+
+}
+button{
+    margin-right: 8px;
+    margin-left: 8px;
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+
+}
+.boton1 {
+
+    color: white;
+    background-color: black;
+    
+}
+.boton1:hover{
+    cursor:pointer;
+    background-color: rgb(73, 71, 71);
+    box-shadow: 2px 2px 2px white;
+
+}
+.boton2{
+    background-color: rgb(26, 58, 240);
+    color: antiquewhite;
+
+}
+.boton2:hover{
+    background-color: rgb(33, 40, 73);
+    color: antiquewhite;
+
+}
+#cabecera2{
+    display: flex;
+    width: 800px;
+
+}
+#buscador{
+    width: 730px;
+    height: 40px;
+    background-color: rgb(206, 179, 168);
+
+}
+#lupa{
+    margin-top: 9px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+
+}
+#cabecera3{
+    display: flex;
+    width: 800px;
+    margin-top: 7px;
+}
+#menu{
+    position: fixed;
+    margin-left: 4px;
+}
+a{
+    
+    color: aliceblue;
+
+}
+.item{
+    margin-top: 9px;
+    
+}
+#cuadricula{
+    margin-left: 230px;
+    margin-right: 48px;
+}
